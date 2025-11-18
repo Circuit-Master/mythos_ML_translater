@@ -1114,5 +1114,65 @@
     {
         "input": "hollywoo <3",
         "output": "Hollywood <3"
+    },
+    {
+        "input": "hehehe, b roll",
+        "output": "Hehehe, B-roll"
+    },
+    {
+        "input": "why pux ovr totz?",
+        "output": "Why put over tater tots?"
+    },
+    {
+        "input": "shredded, then reshaped to be round",
+        "output": "Shredded, then reshaped to be round"
+    },
+    {
+        "input": "hell yeh",
+        "output": "Hell yeah"
+    },
+    {
+        "input": "how dushhuu guyz plan on doin da timnt?",
+        "output": "How do you guys plan on doing the tint?"
+    },
+    {
+        "input": "am curious",
+        "output": "I'm curious"
+    },
+    {
+        "input": "hw...",
+        "output": "Homework..."
+    },
+    {
+        "input": "Throwing knives goatrd!!!",
+        "output": "Throwing knives is goated!!!"
+    },
+    {
+        "input": "amwould askz why yu ate itz, but know i probby woulda dun the saemn…",
+        "output": "I would ask why you ate it, but I know I probably would have done the same…"
+    },
+    {
+        "input": "also ver eepy…",
+        "output": "I'm also very sleepy…"
+    },
+    {
+        "input": "real :(",
+        "output": "Real :("
+    },
+    {
+        "input": "cal me a programming language the way i a kobol",
+        "output": "Call me a programming language the way I am a Kobol"
+    },
+    {
+        "input": "tol...",
+        "output": "Tall..."
+    },
+    {
+        "input": "gonna refrayn",
+        "output": "I'm going to refrain"
+    },
+    {
+        "input": "so muhc munz spending qwq",
+        "output": "So much money spending qwq"
     }
 ]
