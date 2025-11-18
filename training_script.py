@@ -25,17 +25,37 @@ def main():
     dataset = load_dataset("json", data_files=DATA_FILE)["train"]
     print(f"[DEBUG] Dataset loaded: {len(dataset)} samples")
 
-    # ===== DEVICE =====
-    device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+    # ===== DEVICE & DTYPE =====
+    if torch.cuda.is_available():
+        device = torch.device("GPU with CUDA")
+
+        # Use bf16 on modern NVIDIA GPUs if supported
+        dtype = torch.bfloat16
+        use_bf16 = True
+        use_tf32 = True
+
+        print("[DEBUG] GPU detected: Using CUDA + bf16 + tf32")
+        torch.backends.cudnn.benchmark = True  # Optimize GPU kernels
+
+
+    else:
+        device = torch.device("CPU")
+
+        # CPU cannot use bf16 or tf32
+        dtype = torch.float32
+        use_bf16 = False
+        use_tf32 = False
+
+        print("[DEBUG] No GPU detected: Attempting CPU + float32")
+
     print("[DEBUG] Using device:", device)
-    torch.backends.cudnn.benchmark = True  # Optimize GPU kernels
 
     # ===== LOAD MODEL + TOKENIZER =====
     print(f"[DEBUG] Loading model: {MODEL_NAME}")
     tokenizer = AutoTokenizer.from_pretrained(MODEL_NAME)
     model = AutoModelForSeq2SeqLM.from_pretrained(
         MODEL_NAME,
-        torch_dtype=torch.bfloat16  # Use bf16 for faster GPU training
+        torch_dtype=dtype
     )
     model.config.use_cache = False
     model.to(device)
@@ -101,9 +121,9 @@ def main():
         learning_rate=4e-4,
         num_train_epochs=20,
 
-        bf16=True,
-        fp16=False,
-        tf32=True,
+        bf16=use_bf16,
+        tf32=use_tf32,
+        fp16=False,   
 
         optim="adamw_torch_fused",
         lr_scheduler_type="linear",
