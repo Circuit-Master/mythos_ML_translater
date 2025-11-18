@@ -1141,7 +1141,7 @@
     },
     {
         "input": "hw...",
-        "output": "homework..."
+        "output": "Homework..."
     },
     {
         "input": "Throwing knives goatrd!!!",
@@ -1154,5 +1154,25 @@
     {
         "input": "also ver eepy…",
         "output": "I'm also very sleepy…"
+    },
+    {
+        "input": "real :(",
+        "output": "Real :("
+    },
+    {
+        "input": "cal me a programming language the way i a kobol",
+        "output": "Call me a programming language the way I am a Kobol"
+    },
+    {
+        "input": "tol...",
+        "output": "Tall..."
+    },
+    {
+        "input": "gonna refrayn",
+        "output": "I'm going to refrain"
+    },
+    {
+        "input": "so muhc munz spending qwq",
+        "output": "So much money spending qwq"
     }
 ]
