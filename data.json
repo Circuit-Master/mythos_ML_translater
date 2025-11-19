@@ -1758,5 +1758,614 @@
     {
         "input": "reds",
         "output": "Reds"
+    },
+    {
+    "input": "er",
+    "output": "Er"
+    },
+    {
+        "input": "maybe iz cuz pfp haz mor pimnks innit nowes tho…",
+        "output": "Maybe it's because the profile picture has more pinks in it now though…"
+    },
+    {
+        "input": "thought he jus turmned ink fer sumn reabzon qwq",
+        "output": "Thought he just turned pink for some reason qwq"
+    },
+    {
+        "input": "vro's almos dark redg thoe, insted of the arguably pink colour",
+        "output": "Bro is almost dark red though instead of the arguably pink colour"
+    },
+    {
+        "input": "feelikes i'm tweaking",
+        "output": "Feels like I'm tweaking"
+    },
+    {
+        "input": "huh…",
+        "output": "Huh…"
+    },
+    {
+        "input": "&rnak scalesandtales13",
+        "output": "&rank scalesandtales13"
+    },
+    {
+        "input": "oomf",
+        "output": "Oomf"
+    },
+    {
+        "input": "babies…",
+        "output": "Babies…"
+    },
+    {
+        "input": "what???",
+        "output": "What???"
+    },
+    {
+        "input": "backroads ofteb unnattended-",
+        "output": "Backroads are often unattended—"
+    },
+    {
+        "input": "depends on the year",
+        "output": "Depends on the year"
+    },
+    {
+        "input": "mehhh",
+        "output": "Mehhh"
+    },
+    {
+        "input": "fwd corb",
+        "output": "FWD car"
+    },
+    {
+        "input": "all season in the rear, and sport+ in the frumnt",
+        "output": "All-season in the rear and Sport+ in the front"
+    },
+    {
+        "input": "my car's running mismatched tires nowes",
+        "output": "My car is running mismatched tires now"
+    },
+    {
+        "input": "amzi cooked in the wintr?",
+        "output": "Am I cooked in the winter?"
+    },
+    {
+        "input": "guyrs…",
+        "output": "Guys…"
+    },
+    {
+        "input": "if that wuzn alredy obvious…",
+        "output": "If that wasn't already obvious…"
+    },
+    {
+        "input": "i likes crumnchy peanudbuvbr",
+        "output": "I like crunchy peanut butter"
+    },
+    {
+        "input": "fayr i gues",
+        "output": "Fair I guess"
+    },
+    {
+        "input": "what kinmd of oeanud butter do yu likes then?",
+        "output": "What kind of peanut butter do you like then?"
+    },
+    {
+        "input": "they don make pants in kobbo sizes… and they also unnecessary when am can jus wear robez or nuffin",
+        "output": "They don't make pants in kobold sizes and they are unnecessary when I can just wear robes or nothing"
+    },
+    {
+        "input": "amlivr on laek qwq",
+        "output": "I am living on a lake qwq"
+    },
+    {
+        "input": "I DON WEAOR PAMNTS!!!",
+        "output": "I DON'T WEAR PANTS!!!"
+    },
+    {
+        "input": "NOOOOOOO",
+        "output": "Nooooooo"
+    },
+    {
+        "input": "they not wearing pamnts eithr",
+        "output": "They are not wearing pants either"
+    },
+    {
+        "input": "noe",
+        "output": "No"
+    },
+    {
+        "input": "i might post fish pics morro or sumfin",
+        "output": "I might post fish pictures tomorrow or something"
+    },
+    {
+        "input": "hmm…",
+        "output": "Hmm…"
+    },
+    {
+        "input": "am gonna touch sum fimsh",
+        "output": "I'm going to touch some fish"
+    },
+    {
+        "input": "swagz",
+        "output": "Swag"
+    },
+    {
+        "input": "woag",
+        "output": "Woah"
+    },
+    {
+        "input": "sal mon",
+        "output": "Salmon"
+    },
+    {
+        "input": "gremlin in a river",
+        "output": "Gremlin in a river"
+    },
+    {
+        "input": "grey area of tourism hotspot",
+        "output": "Grey area of a tourism hotspot"
+    },
+    {
+        "input": "amminz honor rn",
+        "output": "I'm in honour right now"
+    },
+    {
+        "input": "well",
+        "output": "Well"
+    },
+    {
+        "input": "yea",
+        "output": "Yeah"
+    },
+    {
+        "input": "oooh",
+        "output": "Oooh"
+    },
+    {
+        "input": "but i'm in likr, a tourist triangulation",
+        "output": "But I'm in like a tourist triangulation"
+    },
+    {
+        "input": "i'm kinda ther rn",
+        "output": "I'm kind of there right now"
+    },
+    {
+        "input": "qwq",
+        "output": "Qwq"
+    },
+    {
+        "input": "does the middle of nowhere havr a naaaaem?",
+        "output": "Does the middle of nowhere have a name?"
+    },
+    {
+        "input": "scary miat…",
+        "output": "Scary meat…"
+    },
+    {
+        "input": "lel",
+        "output": "Lel"
+    },
+    {
+        "input": "m",
+        "output": "M"
+    },
+    {
+        "input": "am've gotz the equivalent uvva market gardener",
+        "output": "I've got the equivalent of a market gardener"
+    },
+    {
+        "input": "mundae i was sweating in a t-shirt and shortz, and todae am had to scrape frost off my windshield",
+        "output": "Monday I was sweating in a t-shirt and shorts, and today I had to scrape frost off my windshield"
+    },
+    {
+        "input": "luvring these temps",
+        "output": "Loving these temperatures"
+    },
+    {
+        "input": "preach",
+        "output": "Preach"
+    },
+    {
+        "input": "wuz on a log undrwatr i lifteds",
+        "output": "I was on a log underwater I lifted"
+    },
+    {
+        "input": "foundza stonefly larvae andz anothr thing which lewks diffren but similar",
+        "output": "Found a stonefly larvae and another thing that looks different but similar"
+    },
+    {
+        "input": "hrrrm…",
+        "output": "Hrrrm…"
+    },
+    {
+    "input": ":33",
+    "output": ":33"
+    },
+    {
+        "input": "(thasjus me tho, am like robust n blocky fingz)",
+        "output": "(That's just me though, I like robust and blocky things)"
+    },
+    {
+        "input": "those speakers be too curvy....",
+        "output": "Those speakers are too curvy…"
+    },
+    {
+        "input": "mm, yis",
+        "output": "Mm, yes"
+    },
+    {
+        "input": "notedz...",
+        "output": "Noted…"
+    },
+    {
+        "input": "can't even use google maps or earth…",
+        "output": "I can't even use Google Maps or Earth…"
+    },
+    {
+        "input": "my schol blocks fumcking everyfing qwq",
+        "output": "My school blocks everything qwq"
+    },
+    {
+        "input": "they've started usring linewize ovr heres",
+        "output": "They've started using Linewize over here"
+    },
+    {
+        "input": "often jus seens az terrible with your apple fone's compression",
+        "output": "It often just seems terrible with your Apple phone's compression"
+    },
+    {
+        "input": "iz not that badz tho…",
+        "output": "It's not that bad though…"
+    },
+    {
+        "input": "first thing said was \"the camera quality is so bad\"",
+        "output": "The first thing said was “the camera quality is so bad.”"
+    },
+    {
+        "input": "brought up \"yea, google pixel\" and instantly got hit why \"ew, why\" and such",
+        "output": "I mentioned “yeah, Google Pixel” and instantly got hit with “ew, why” and similar comments"
+    },
+    {
+        "input": "vro…",
+        "output": "Bro…"
+    },
+    {
+        "input": "pffwehehe",
+        "output": "Pffwehehe"
+    },
+    {
+        "input": "suction onmuh tongue",
+        "output": "Suction on my tongue"
+    },
+    {
+        "input": "tur",
+        "output": "Tur"
+    },
+    {
+        "input": "also, dis is my caliber having issues",
+        "output": "Also, this is my Caliber having issues"
+    },
+    {
+        "input": "lowkey think chuck jus forgot the alignment after replacing everything qwq",
+        "output": "I lowkey think Chuck just forgot the alignment after replacing everything qwq"
+    },
+    {
+        "input": "a few munfs agoe",
+        "output": "A few months ago"
+    },
+    {
+        "input": "like…",
+        "output": "Like…"
+    },
+    {
+        "input": "literalli just got 'ems replaced qwq",
+        "output": "I literally just got them replaced qwq"
+    },
+    {
+        "input": "evil rowawa…",
+        "output": "Evil rowawa…"
+    },
+    {
+        "input": "cuz of course my tires ar wearing funni agaynz…",
+        "output": "Because of course my tires are wearing funny again…"
+    },
+    {
+        "input": "for anothr alignment =m=",
+        "output": "Time for another alignment =m="
+    },
+    {
+        "input": "i <3 getting told i habr to taek my car to the shop the morning of",
+        "output": "I love getting told I have to take my car to the shop on the morning of"
+    },
+    {
+        "input": "NOOOOOO [monkmisery removed]",
+        "output": "Noooooo"
+    },
+    {
+        "input": "efeaweffewa",
+        "output": "Efeaweffewa"
+    },
+    {
+        "input": "it keepz my brayn tickin like a timebomb",
+        "output": "It keeps my brain ticking like a time bomb"
+    },
+    {
+        "input": "music iz my best frend when it comes to drives like thatz",
+        "output": "Music is my best friend when it comes to drives like that"
+    },
+    {
+        "input": "eepy drivrin iz NOT coolz…",
+        "output": "Sleepy driving is NOT cool…"
+    },
+    {
+        "input": "if yer boff do they cancel out? /j",
+        "output": "If you're both, do they cancel out? /j"
+    },
+    {
+        "input": "vro…",
+        "output": "Bro…"
+    },
+    {
+        "input": "space chicken...",
+        "output": "Space chicken…"
+    },
+    {
+        "input": "qwq",
+        "output": "Qwq"
+    },
+    {
+        "input": "aw yeaaa B3",
+        "output": "Aw yeah B3"
+    },
+    {
+        "input": "mayyybee",
+        "output": "Maybe"
+    },
+    {
+        "input": "0w0",
+        "output": "0w0"
+    },
+    {
+        "input": "",
+        "output": ""
+    },
+    {
+        "input": "i just atr 2 loaded coney dogz...",
+        "output": "I just ate two loaded Coney dogs…"
+    },
+    {
+        "input": "tempted, but alsoe hw",
+        "output": "Tempted, but also homework"
+    },
+    {
+        "input": "beam...",
+        "output": "Beam…"
+    },
+    {
+        "input": "hrrfgh",
+        "output": "Hrrfgh"
+    },
+    {
+        "input": "&rnak",
+        "output": "&rank"
+    },
+    {
+        "input": "inda sumfin",
+        "output": "Kinda something"
+    },
+    {
+        "input": "barrel",
+        "output": "Barrel"
+    },
+    {
+        "input": ":/",
+        "output": ":/"
+    },
+    {
+        "input": "in thiss set of imag i see a sad kitchen, a triangle stairwel, and perhaps a freya sized cat bed",
+        "output": "In this set of images I see a sad kitchen, a triangular stairwell, and possibly a Freya-sized cat bed"
+    },
+    {
+        "input": "8 or sumfin",
+        "output": "Eight or something"
+    },
+    {
+        "input": "do you jus like... yarr harr?",
+        "output": "Do you just like… yarr harr?"
+    },
+    {
+        "input": "also comfi asf",
+        "output": "also comfortable as fuck"
+    },
+    {
+        "input": "hehe",
+        "output": "hehe"
+    },
+    {
+        "input": "the cube did indeed fit, with room to spare",
+        "output": "the cube did indeed fit, with room to spare"
+    },
+    {
+        "input": "we parked in the corner spot for states at svsu in '24",
+        "output": "we parked in the corner spot for States at SVSU in 2024"
+    },
+    {
+        "input": "the cube parking spot...",
+        "output": "the cube parking spot"
+    },
+    {
+        "input": "mmm, leaf",
+        "output": "mmm, leaf"
+    },
+    {
+        "input": "old landcruiser",
+        "output": "old Land Cruiser"
+    },
+    {
+        "input": "woah…",
+        "output": "whoa"
+    },
+    {
+        "input": "tur",
+        "output": "tur"
+    },
+    {
+        "input": "like a snout or smn",
+        "output": "like a snout or something"
+    },
+    {
+        "input": "give the cool featurez",
+        "output": "give the cool features"
+    },
+    {
+        "input": "why all the robots gotta be humanoid",
+        "output": "why do all the robots have to be humanoid"
+    },
+    {
+        "input": "grrr",
+        "output": "grrr"
+    },
+    {
+        "input": "about colrg",
+        "output": "about coloring"
+    },
+    {
+        "input": "thinkin and thonkin",
+        "output": "thinking and thunking"
+    },
+    {
+        "input": "hmm",
+        "output": "hmm"
+    },
+    {
+        "input": "so, i get a tracked package, hope it gets thru to the U.S., enter the usps tracking no. into the package intercept form, and then req it for my local post office",
+        "output": "so I get a tracked package, hope it gets through to the U.S., enter the USPS tracking number into the package intercept form, and then request it for my local post office"
+    },
+    {
+        "input": "ah",
+        "output": "ah"
+    },
+    {
+        "input": "embed failure…",
+        "output": "embed failure"
+    },
+    {
+        "input": "ope",
+        "output": "ope"
+    },
+    {
+        "input": "i canz?",
+        "output": "I can?"
+    },
+    {
+        "input": "o, alsoe this woul probby be an issue since like… i am one of 5 residents at my abode -w-",
+        "output": "oh, also this would probably be an issue since I am one of five residents at my home"
+    },
+    {
+        "input": "and iirc royal mail would usualli hand things off to usps, yeh?",
+        "output": "and if I recall correctly, Royal Mail would usually hand things off to USPS, yes?"
+    },
+    {
+        "input": "thas whut i thought",
+        "output": "that's what I thought"
+    },
+    {
+        "input": "could i just adress it to the post office?",
+        "output": "could I just address it to the post office?"
+    },
+    {
+        "input": "should i go talk to my post office?",
+        "output": "should I go talk to my post office?"
+    },
+    {
+        "input": "which i should receive via email after confirming the order?",
+        "output": "which I should receive via email after confirming the order?"
+    },
+    {
+        "input": "i alsoe need the package shippy numbr fing",
+        "output": "I also need the package shipping number"
+    },
+    {
+        "input": "to my undrstanding…  USPS could intercept the package at my post office if it meets requirementz (which i fink it shouldz) and hold it there for an addishyunal fee of 18.35 USD, then i can piccit upz",
+        "output": "to my understanding, USPS could intercept the package at my post office if it meets requirements (which I think it should) and hold it there for an additional fee of 18.35 USD, and then I can pick it up"
+    },
+    {
+        "input": "but alsoe so it duzn hold alla the mayl being sent to yer adres?",
+        "output": "but also so it doesn't hold all the mail being sent to your address?"
+    },
+    {
+        "input": "duz usps letchyu hold packages or anyfin like that w/o a P.O. box?",
+        "output": "does USPS let you hold packages or anything like that without a P.O. box?"
+    },
+    {
+        "input": "idon wanna ship it to haus directli cuz i don wan anyone to mess wif my stumf",
+        "output": "I don't want to ship it to my house directly because I don't want anyone to mess with my stuff"
+    },
+    {
+        "input": "but",
+        "output": "but"
+    },
+    {
+        "input": "iwan git sum silli stumf",
+        "output": "I want to get some silly stuff"
+    },
+    {
+        "input": "so",
+        "output": "so"
+    },
+    {
+        "input": "hrrrm",
+        "output": "hrrrm"
+    },
+    {
+        "input": "something something kurtulmak something something",
+        "output": "something something Kurtulmak something something"
+    },
+    {
+        "input": "luvr that plate",
+        "output": "love that plate"
+    },
+    {
+        "input": "izzit alsoe somfin a kobold can get into?",
+        "output": "is it also something a kobold can get into?"
+    },
+    {
+        "input": "evil fops…",
+        "output": "evil fops"
+    },
+    {
+        "input": "izwhy might =m=",
+        "output": "it's why maybe"
+    },
+    {
+        "input": "i needa use les elipsis",
+        "output": "I need to use fewer ellipses"
+    },
+    {
+        "input": "am might be interestedz…",
+        "output": "I might be interested"
+    },
+    {
+        "input": "pfwehehe",
+        "output": "pfwehehe"
+    },
+    {
+        "input": "considered, but also i'm a broke bold",
+        "output": "considered, but I'm also a broke kobold"
+    },
+    {
+        "input": "dunno if they comms open but yu can get a giant fumcking weighted pawb of yer sona if yu wan",
+        "output": "I dont know if their commissions are open, but you can get a giant fucking weighted paw of your sona if you want"
+    },
+    {
+        "input": "hey i know a guuvr that makes those",
+        "output": "hey, I know a guy who makes those"
+    },
+    {
+        "input": "my evilfumckedup left handed pal",
+        "output": "my evil messed up left handed pal"
+    },
+    {
+        "input": "IJKL…",
+        "output": "IJKL..."
     }
+
 ]
