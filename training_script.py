@@ -51,7 +51,7 @@ def main():
     tokenizer = AutoTokenizer.from_pretrained(MODEL_NAME)
     model = AutoModelForSeq2SeqLM.from_pretrained(
         MODEL_NAME,
-        dtype=dtype
+        torch_dtype=dtype
     )
     model.config.use_cache = False
     model.to(device)
