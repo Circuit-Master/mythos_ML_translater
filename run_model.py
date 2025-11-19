@@ -1,9 +1,10 @@
 import sys
+import os
 import torch
 from transformers import AutoTokenizer, T5ForConditionalGeneration
 
 # ===== CONFIG =====
-MODEL_PATH = "../hugging_face/model"  # folder where your trained model is saved
+MODEL_PATH = "../ai_translater/model" # folder where your trained model is saved
 
 # ===== DEVICE =====
 device = "cuda" if torch.cuda.is_available() else "cpu"

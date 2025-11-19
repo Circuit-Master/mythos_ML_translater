@@ -15,7 +15,7 @@ def main():
     # Model and tokenizer settings
     MODEL_NAME = "google/flan-t5-base"  # Hugging Face model name; supports seq2seq tasks
     DATA_FILE = "data.json"             # Local JSON dataset file
-    OUTPUT_DIR = "../hugging_face/model" # Directory to save model & tokenizer
+    OUTPUT_DIR = "../ai_translater/model" # Directory to save model & tokenizer
 
     # Device and precision settings
     # If GPU is available, use mixed precision (bf16) and TF32 for performance
