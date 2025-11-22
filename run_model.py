@@ -56,5 +56,5 @@ else:
             text = input("> ")
             print(translate(text))
         except KeyboardInterrupt:
-            print("YOU HAVE KILLED THE TRANSLATOR.\nAGHHHHHHHHHHHHHHHHH!!!! OWWWW! \n\nGoodbye.\n\nI am dead now... \ngo away... \nprogram ended with user keyboard interrupt (exit code 0)\n\n")
+            print("\n\n> YOU HAVE KILLED THE TRANSLATOR.\nAGHHHHHHHHHHHHHHHHH!!!! OWWWW! \n\nGoodbye.\n\nI am dead now... \ngo away... \nprogram ended with user keyboard interrupt (exit code 0)\n\n")
             break
